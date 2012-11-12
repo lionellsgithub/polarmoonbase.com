@@ -9,7 +9,7 @@
 		<a href="#" id="1">♛</a><br>
 		<a href="#" id="2">♖</a><br>
 		<a href="#" id="3">♞</a><br>
-	    <a href="#" id="4">♔</a><br>
+	        <a href="#" id="4">♔</a><br>
 
 
 		
