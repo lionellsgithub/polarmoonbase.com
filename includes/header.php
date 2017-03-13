@@ -5,12 +5,15 @@
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
 <title>Polar Moonbase</title>
 <link rel="shortcut icon" href="http://www.software-dungeon.co.uk/icons/118175_pocket-moon-phases.gif" type="image/x-icon"/>
+<link href='https://fonts.googleapis.com/css?family=Asul' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" type="text/css" href="style.css"/>
-
-<script type="text/javascript" src="js/jquery-1.5.1.min.js"></script>
-<script type="text/javascript" src="js/jquery-ui-1.8.12.custom.min.js"></script>
+<script type="text/javascript" src="js/jquery-1.9.1.js"></script>
+<script type="text/javascript" src="js/jquery-ui.js"></script>
+<script type="text/javascript" src="js/jquery-ui.min.js"></script>
 <script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript" src="http://lionellswebsite.com/js/jquery.ui.touch-punch.min.js"></script>
 </head>
 <body>
-
-<div id="wrapper">
+<div id="loading">
+<p>Retreiving data...</p>
+</div>
